@@ -1,3 +1,4 @@
-# how to run
-st_calendar 内で
+# How to run
 streamlit run st_calendar.py
+
+#How to use
